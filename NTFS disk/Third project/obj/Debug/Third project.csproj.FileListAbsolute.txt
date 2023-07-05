@@ -1,0 +1,22 @@
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\bin\Debug\Third project.exe.config
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\bin\Debug\Third project.exe
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\bin\Debug\Third project.pdb
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.csproj.AssemblyReference.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third_project.Properties.Resources.resources
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.csproj.GenerateResource.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.csproj.CoreCompileInputs.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.exe
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third project.pdb
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Third project\Third project\obj\Debug\Third_project.Form1.resources
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\bin\Debug\Third project.exe.config
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\bin\Debug\Third project.exe
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\bin\Debug\Third project.pdb
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.csproj.AssemblyReference.cache
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third_project.Form1.resources
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third_project.Properties.Resources.resources
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.csproj.GenerateResource.cache
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.csproj.CoreCompileInputs.cache
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.exe
+C:\Users\Airi\Downloads\Telegram Desktop\Tizimli\Tizimli\NTFS disk\Third project\obj\Debug\Third project.pdb
